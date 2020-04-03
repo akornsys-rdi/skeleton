@@ -31,8 +31,8 @@ This project may contain some of the following sections:
 ### Documentation
 
 - `/doc/` Written or graphic documentation.
-- any file containing project information at the root of the project, including the README.
-- wiki or gh-pages if available.
+- Any file containing project information at the root of the project, including the README.
+- Wiki or gh-pages if available.
 
 ## :rocket: Getting started
 
