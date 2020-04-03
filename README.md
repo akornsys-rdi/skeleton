@@ -77,7 +77,7 @@ This is a **community-driven open source project**. Any contribution is highly a
 
 Please :star: or watch this repository if this project hepled you! You can also support this project on [Liberapay](https://liberapay.com/RileyStarlight/donate) or buy it in [Tindie](https://www.tindie.com "Tindie Shop").
 
-If you are going to make your own copy (clone) or fork, please remove the brand name and logo from your design, as well the S/N. The license and copyright notice must be retained.
+:warning: **NOTE:** If you are going to make your own copy (clone) or fork, please remove the brand name and logo from your design, as well the S/N. The license and copyright notice must be retained.
 
 ## :scroll: Copyright & License
 
