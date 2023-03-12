@@ -69,6 +69,7 @@ Here can be an optional section of the roadmap or ToDo.
 ## :heart: Community and contributions
 
 [![Donate using Liberapay](https://github.com/akornsys-rdi/skeleton/raw/master/doc/img/liberapay-donate.png)](https://liberapay.com/RileyStarlight/donate)
+[![Support me on Ko-Fi](https://github.com/akornsys-rdi/skeleton/raw/master/doc/img/kofi-support.png)](https://ko-fi.com/rileystarlight)
 [![Tindie Shop](https://github.com/akornsys-rdi/skeleton/raw/master/doc/img/tindie-logo.png)](https://www.tindie.com)
 
 Contributions are always welcome!
