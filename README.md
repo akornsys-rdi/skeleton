@@ -76,7 +76,7 @@ Contributions are always welcome!
 
 This is a **community-driven open source project**. Any contribution is highly appreciated, whether you are helping [fixing bugs or proposing new features](https://github.com/akornsys-rdi/skeleton/issues "Issues"), [pulling requests](https://github.com/akornsys-rdi/skeleton/pulls "Pull Requests"), improving the documentation or spreading the word.
 
-Please :star: or watch this repository if this project helped you! You can also support this project on [Liberapay](https://liberapay.com/RileyStarlight/donate) or buy it in [Tindie](https://www.tindie.com "Tindie Shop").
+Please :star: or watch this repository if this project helped you! You can also support this project on [Liberapay](https://liberapay.com/RileyStarlight/donate), [Ko-Fi](https://ko-fi.com/rileystarlight) or buy it in [Tindie](https://www.tindie.com "Tindie Shop").
 
 :warning: **NOTE:** If you are going to make your own copy (clone) or fork, please remove the brand name and logo from your design, as well the S/N. The license and copyright notice must be retained.
 
